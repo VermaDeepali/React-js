@@ -15,3 +15,10 @@ In the "Node Social API's" folder, you will find the backend APIs that are essen
 6. Logging and Security: The APIs incorporate the use of Morgan, a logging middleware, to generate detailed logs of HTTP requests and responses. Additionally, the Helmet package is utilized to enhance the security of the API endpoints by setting appropriate HTTP headers.
 
 By combining these technologies, the Node Social API's provide a foundation for building a social networking application with user management, post creation, interaction, and secure data handling capabilities.
+
+
+### Added postman collection file
+
+I have also included a Postman collection file in this repository. If you want to explore and test the APIs mentioned above, you can import the collection file into your Postman application. The collection contains pre-configured requests for each API endpoint, allowing you to easily interact with the backend and examine the functionalities provided.
+
+Feel free to import the Postman collection and explore the APIs to get a better understanding of the user management, post creation, interaction, and data handling capabilities of this Node Social application.
